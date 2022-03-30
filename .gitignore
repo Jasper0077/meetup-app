@@ -39,3 +39,6 @@ jspm_packages
 
 # Enviroment Variable
 .env
+
+# package-lock.json
+.package-lock.json
